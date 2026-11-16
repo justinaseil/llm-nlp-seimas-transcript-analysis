@@ -5,7 +5,7 @@ Vilniaus universiteto Matematikos ir informatikos fakulteto, Duomenų mokslo stu
 **Autoriai:** Justina Seiliūnaitė, Arnas Kazanavičius, Naglis Bražėnas
 **Darbo vadovas:** Asist. dr. Andrius Buteikis
 
-Pilnas darbas: [Atsisiųsti kursinį darbą (PDF)](https://github.com/justinaseil/llm-nlp-seimas-transcript-analysis/raw/refs/heads/main/docs/Kalbos_modeliu%CC%A8_taikymas_G13_kursinis.pdf)
+Pilnas darbas: [Peržiūrėti kursinį darbą (PDF)](https://github.com/justinaseil/llm-nlp-seimas-transcript-analysis/blob/main/docs/Kalbos_modeliu%CC%A8_taikymas_G13_kursinis.pdf)
 
 ## Apie projektą
 
