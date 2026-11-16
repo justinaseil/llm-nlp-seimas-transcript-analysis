@@ -5,7 +5,7 @@ Vilniaus universiteto Matematikos ir informatikos fakulteto, Duomenų mokslo stu
 **Autoriai:** Justina Seiliūnaitė, Arnas Kazanavičius, Naglis Bražėnas
 **Darbo vadovas:** Asist. dr. Andrius Buteikis
 
-Pilnas darbas: [`docs/Kalbos_modeliu_taikymas_G13_kursinis.pdf`](docs/Kalbos_modeliu_taikymas_G13_kursinis.pdf)
+Pilnas darbas: [`docs/Kalbos_modelių_taikymas_G13_kursinis.pdf`](docs/Kalbos_modelių_taikymas_G13_kursinis.pdf)
 
 ## Apie projektą
 
