@@ -3,6 +3,7 @@
 Vilniaus universiteto Matematikos ir informatikos fakulteto, Duomenų mokslo studijų programos projektas (2026).
 
 **Autoriai:** Justina Seiliūnaitė, Arnas Kazanavičius, Naglis Bražėnas
+
 **Darbo vadovas:** Asist. dr. Andrius Buteikis
 
 Pilnas darbas: [Peržiūrėti kursinį darbą (PDF)](https://github.com/justinaseil/llm-nlp-seimas-transcript-analysis/blob/main/docs/Kalbos_modeliu%CC%A8_taikymas_G13_kursinis.pdf)
